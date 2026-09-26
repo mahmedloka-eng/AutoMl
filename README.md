@@ -8,7 +8,8 @@
 **auto_Ml** is an end-to-end auto_Ml platform with a Gradio web UI. Upload a CSV, pick a target column, and the app auto-detects the task, preprocesses mixed-type data, trains a portfolio of models with cross-validation, tunes **every** model, evaluates on a held-out test set, saves each model as a self-contained `.pkl` bundle, and logs every run to MLflow — all without writing a single line of code.
 
 ---
-
+<video src="https://github.com/user-attachments/assets/c6ac3794-f6fb-412a-afa1-2eb24e36db60" width="600" controls></video>
+---
 ## 🌟 Key Features
 
 ### 1. 📂 Intelligent Data Handling
