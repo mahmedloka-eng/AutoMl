@@ -10,6 +10,10 @@
 ---
 <video src="https://github.com/user-attachments/assets/c6ac3794-f6fb-412a-afa1-2eb24e36db60" width="600" controls></video>
 ---
+
+### How To Run
+use python app.py to the run the Project 
+
 ## 🌟 Key Features
 
 ### 1. 📂 Intelligent Data Handling
